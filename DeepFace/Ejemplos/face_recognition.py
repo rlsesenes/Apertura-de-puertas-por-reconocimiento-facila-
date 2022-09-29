@@ -1,5 +1,5 @@
 # df = DeepFace.find(img_path = "img1.jpg", db_path = "C:/workspace/my_db")
-df = DeepFace.find (img_path = "/home/sesenes/Documents/GitHub/Apertura-de-puertas-por-reconocimiento-facila-/DeepFace/Faces/NICOLEKIDMAN.jpg", db_path = "/home/sesenes/Documents/GitHub/Apertura-de-puertas-por-reconocimiento-facila-/DeepFace/my_db", enforce_detection = "false")
+df = DeepFace.find (img_path = "/home/sesenes/Documents/GitHub/Apertura-de-puertas-por-reconocimiento-facila-/deepface/Faces/NICOLEKIDMAN.jpg", db_path = "/home/sesenes/Documents/GitHub/Apertura-de-puertas-por-reconocimiento-facila-/deepface/my_db", enforce_detection = "false")
 print ("Resultado ")
 print (df)
 print ("Seleccion")
